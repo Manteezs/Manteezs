@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 Welkom.
-Web Development, Bioinformatics, and more 
+<p> Web Development, Bioinformatics, and more </p>
