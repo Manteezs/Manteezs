@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Welkom.
+Welcome
 <p> Web Development, Bioinformatics, and more </p>
