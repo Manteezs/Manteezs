@@ -1,5 +1,5 @@
-### Heyo!
-🏠 Welcome to my humble abode
+# Heyo!
+<i> Welcome to my humble abode </i>
 <br><br>
 💻 On this page, you'll discover projects and repositories related to web Development, bioinformatics, and more!
 <br><br>
