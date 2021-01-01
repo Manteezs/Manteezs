@@ -1,5 +1,5 @@
 # Heyo!
-<i> Welcome to where I shelter all of my projects </i>
+<i>Welcome to the home of my projects~</i>
 <br><br>
 💻 On this page, you'll discover projects and repositories related to web development, computational biology, and more!
 <br><br>
