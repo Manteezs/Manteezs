@@ -1,4 +1,3 @@
-### Hi there 👋
+### Heyo!
 
-Welcome
 <p> Web Development, Bioinformatics, and more </p>
